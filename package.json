@@ -1,0 +1,22 @@
+{
+  "name": "consumindo-api",
+  "version": "1.0.0",
+  "description": "Consumindo API Json Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/gaiotto1/consumindo-api.git)"
+  },
+  "keywords": [
+    "js",
+    "api"
+  ],
+  "author": "Julio Gaiotto <juliogaiotto10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaiotto1/consumindo-api/issues"
+  }
+}
